@@ -1,0 +1,10 @@
+E:\2115239_TranVanNam\BaiThucHanh\BaiThucHanh\bin\Debug\BaiThucHanh.exe.config
+E:\2115239_TranVanNam\BaiThucHanh\BaiThucHanh\bin\Debug\BaiThucHanh.exe
+E:\2115239_TranVanNam\BaiThucHanh\BaiThucHanh\bin\Debug\BaiThucHanh.pdb
+E:\2115239_TranVanNam\BaiThucHanh\BaiThucHanh\obj\Debug\BaiThucHanh.csprojAssemblyReference.cache
+E:\2115239_TranVanNam\BaiThucHanh\BaiThucHanh\obj\Debug\BaiThucHanh.MainForm.resources
+E:\2115239_TranVanNam\BaiThucHanh\BaiThucHanh\obj\Debug\BaiThucHanh.Properties.Resources.resources
+E:\2115239_TranVanNam\BaiThucHanh\BaiThucHanh\obj\Debug\BaiThucHanh.csproj.GenerateResource.cache
+E:\2115239_TranVanNam\BaiThucHanh\BaiThucHanh\obj\Debug\BaiThucHanh.csproj.CoreCompileInputs.cache
+E:\2115239_TranVanNam\BaiThucHanh\BaiThucHanh\obj\Debug\BaiThucHanh.exe
+E:\2115239_TranVanNam\BaiThucHanh\BaiThucHanh\obj\Debug\BaiThucHanh.pdb

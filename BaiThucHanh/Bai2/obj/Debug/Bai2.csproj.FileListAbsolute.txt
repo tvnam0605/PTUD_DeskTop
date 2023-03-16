@@ -1,0 +1,10 @@
+E:\2115239_TranVanNam\BaiThucHanh\Bai2\bin\Debug\Bai2.exe.config
+E:\2115239_TranVanNam\BaiThucHanh\Bai2\bin\Debug\Bai2.exe
+E:\2115239_TranVanNam\BaiThucHanh\Bai2\bin\Debug\Bai2.pdb
+E:\2115239_TranVanNam\BaiThucHanh\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+E:\2115239_TranVanNam\BaiThucHanh\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+E:\2115239_TranVanNam\BaiThucHanh\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+E:\2115239_TranVanNam\BaiThucHanh\Bai2\obj\Debug\Bai2.exe
+E:\2115239_TranVanNam\BaiThucHanh\Bai2\obj\Debug\Bai2.pdb
+E:\2115239_TranVanNam\BaiThucHanh\Bai2\obj\Debug\Bai2.MainForm.resources
+E:\2115239_TranVanNam\BaiThucHanh\Bai2\obj\Debug\Bai2.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\MyPC\Documents\2115239_TranVanNam\BaiTapWindowForm\bin\Debug\BaiTapWindowForm.exe.config
+C:\Users\MyPC\Documents\2115239_TranVanNam\BaiTapWindowForm\bin\Debug\BaiTapWindowForm.exe
+C:\Users\MyPC\Documents\2115239_TranVanNam\BaiTapWindowForm\bin\Debug\BaiTapWindowForm.pdb
+C:\Users\MyPC\Documents\2115239_TranVanNam\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.csproj.AssemblyReference.cache
+C:\Users\MyPC\Documents\2115239_TranVanNam\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.frmBai1.resources
+C:\Users\MyPC\Documents\2115239_TranVanNam\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.frmChinh.resources
+C:\Users\MyPC\Documents\2115239_TranVanNam\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.Properties.Resources.resources
+C:\Users\MyPC\Documents\2115239_TranVanNam\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.csproj.GenerateResource.cache
+C:\Users\MyPC\Documents\2115239_TranVanNam\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Documents\2115239_TranVanNam\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.exe
+C:\Users\MyPC\Documents\2115239_TranVanNam\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.pdb
+C:\Users\MyPC\Documents\2115239_TranVanNam\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.frmBai2.resources
+C:\Users\MyPC\Documents\2115239_TranVanNam\BaiTapWindowForm\obj\Debug\BaiTapWindowForm.frmBai3.resources
